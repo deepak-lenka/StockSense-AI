@@ -1,4 +1,5 @@
 # StockSense AI Implementation Guide
+Financial Statement Analysis with GPT-4
 
 ## Project Overview
 StockSense AI is a sophisticated financial analysis system that combines traditional financial metrics with GPT-4 powered AI analysis to provide comprehensive stock market insights and real-time monitoring.
