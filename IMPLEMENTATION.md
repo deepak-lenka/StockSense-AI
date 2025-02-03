@@ -103,7 +103,7 @@ Financial Data → Traditional Metrics → AI Analysis → Combined Insights
 - Prediction accuracy validated through backtesting
 - Efficient resource utilization (<500MB memory)
 
-## Future Enhancements
+## Future Enhancements for future !
 
 1. Additional data sources integration
 2. Enhanced ML models for prediction
